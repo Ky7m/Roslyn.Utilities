@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DCE1B543-19E8-4DBC-8224-11B826F6EF5C}"
+	ProjectSection(SolutionItems) = preProject
+		NuGet.Config = NuGet.Config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Utilities", "src\Roslyn.Utilities\Roslyn.Utilities.csproj", "{4E88678A-6592-4852-8E19-D85FB900EA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Utilities.Tests", "tests\Roslyn.Utilities.Tests\Roslyn.Utilities.Tests.csproj", "{4A18F070-894F-4A2C-BD50-BEBD3A23F2B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E88678A-6592-4852-8E19-D85FB900EA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E88678A-6592-4852-8E19-D85FB900EA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E88678A-6592-4852-8E19-D85FB900EA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E88678A-6592-4852-8E19-D85FB900EA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A18F070-894F-4A2C-BD50-BEBD3A23F2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A18F070-894F-4A2C-BD50-BEBD3A23F2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A18F070-894F-4A2C-BD50-BEBD3A23F2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A18F070-894F-4A2C-BD50-BEBD3A23F2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
