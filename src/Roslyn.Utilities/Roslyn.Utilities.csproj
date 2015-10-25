@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcurrentLruCache.cs" />
     <Compile Include="Properties\GlobalSuppressions.cs" />
     <Compile Include="OneOrMany.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
