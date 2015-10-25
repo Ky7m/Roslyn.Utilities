@@ -2,8 +2,8 @@
 
 **Description**
 
-Roslyn internal utilities (https://github.com/dotnet/roslyn/tree/master/src/Compilers/Core/Portable/InternalUtilities) wrapped as Nuget package.
+[Roslyn internal utilities](https://github.com/dotnet/roslyn/tree/master/src/Compilers/Core/Portable/InternalUtilities) as Nuget package.
 
 **List of features**
-* [OneOrMany](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/OneOrMany.cs)
-* [ConcurrentLruCache](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/ConcurrentLruCache.cs)
+* [OneOrMany](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/OneOrMany.cs) - Represents a single item or many items. Used when a collection usually contains a single item but sometimes might contain multiple.
+* [ConcurrentLruCache](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/ConcurrentLruCache.cs) - Thread-safe cache with a fixed size that evicts the least recently used members.
