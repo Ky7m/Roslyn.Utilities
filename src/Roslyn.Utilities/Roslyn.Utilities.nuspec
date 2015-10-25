@@ -13,7 +13,7 @@
     <language>en-us</language>
     <tags>Roslyn, Utilities</tags>
     <dependencies>
-      <dependency id="System.Collections.Immutable" version="1.1.38-beta-23409" />
+      <dependency id="System.Collections.Immutable" version="1.1.37" />
     </dependencies>
   </metadata>
 </package>
