@@ -1,4 +1,4 @@
-# Roslyn.Utilities [![Build status](https://ci.appveyor.com/api/projects/status/n9kt9gou453uk3iw/branch/master?svg=true)](https://ci.appveyor.com/project/IgorFesenko/roslyn-utilities/branch/master) 
+# Roslyn.Utilities [![Build status](https://ci.appveyor.com/api/projects/status/n9kt9gou453uk3iw/branch/master?svg=true)](https://ci.appveyor.com/project/IgorFesenko/roslyn-utilities/branch/master) [![NuGet Status](https://img.shields.io/nuget/v/Roslyn.Utilities.svg?style=flat)](https://www.nuget.org/packages/Roslyn.Utilities/)
 
 **Description**
 
