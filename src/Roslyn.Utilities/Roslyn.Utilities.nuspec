@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Roslyn.Utilities</id>
+    <version>$version$</version>
+    <title>Roslyn.Utilities</title>
+    <authors>Igor Fesenko</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/Ky7m/Roslyn.Utilities</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Roslyn internal utilities (https://github.com/dotnet/roslyn/tree/master/src/Compilers/Core/Portable/InternalUtilities) wrapped as Nuget package</description>
+    <language>en-us</language>
+    <tags>Roslyn, Utilities</tags>
+    <dependencies>
+      <dependency id="System.Collections.Immutable" version="1.1.38-beta-23409" />
+    </dependencies>
+  </metadata>
+</package>
