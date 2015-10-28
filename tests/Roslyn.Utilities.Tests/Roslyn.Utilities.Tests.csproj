@@ -63,7 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="WeakListTests.cs" />
     <Compile Include="ConcurrentLruCacheTests.cs" />
+    <Compile Include="Helpers\ObjectReference.cs" />
     <Compile Include="OneOrManyTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

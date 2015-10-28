@@ -50,10 +50,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SpecializedCollections.cs" />
+    <Compile Include="SpecializedCollections.Empty.Array.cs" />
+    <Compile Include="SpecializedCollections.Empty.Collection.cs" />
+    <Compile Include="SpecializedCollections.Empty.cs" />
+    <Compile Include="SpecializedCollections.Empty.Dictionary.cs" />
+    <Compile Include="SpecializedCollections.Empty.Enumerable.cs" />
+    <Compile Include="SpecializedCollections.Empty.Enumerator.cs" />
+    <Compile Include="SpecializedCollections.Empty.Enumerator`1.cs" />
+    <Compile Include="SpecializedCollections.Empty.List.cs" />
+    <Compile Include="SpecializedCollections.Empty.Set.cs" />
+    <Compile Include="SpecializedCollections.ReadOnly.Collection.cs" />
+    <Compile Include="SpecializedCollections.ReadOnly.Enumerable`1.cs" />
+    <Compile Include="SpecializedCollections.ReadOnly.Enumerable`2.cs" />
+    <Compile Include="SpecializedCollections.ReadOnly.Set.cs" />
+    <Compile Include="SpecializedCollections.Singleton.Collection`1.cs" />
+    <Compile Include="SpecializedCollections.Singleton.Enumerator`1.cs" />
+    <Compile Include="WeakList.cs" />
+    <Compile Include="ConsList.cs" />
     <Compile Include="ConcurrentLruCache.cs" />
+    <Compile Include="ConsListExtensions.cs" />
     <Compile Include="Properties\GlobalSuppressions.cs" />
     <Compile Include="OneOrMany.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WeakReferenceExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">
