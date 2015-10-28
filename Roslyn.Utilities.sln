@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DCE1B543-19E8-4DBC-8224-11B826F6EF5C}"
 	ProjectSection(SolutionItems) = preProject
 		NuGet.Config = NuGet.Config
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roslyn.Utilities", "src\Roslyn.Utilities\Roslyn.Utilities.csproj", "{4E88678A-6592-4852-8E19-D85FB900EA25}"
