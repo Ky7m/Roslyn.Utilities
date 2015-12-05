@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayExtensions.cs" />
     <Compile Include="SpecializedCollections.cs" />
     <Compile Include="SpecializedCollections.Empty.Array.cs" />
     <Compile Include="SpecializedCollections.Empty.Collection.cs" />

@@ -10,3 +10,4 @@
 * [ConsList+Extensions](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/ConsList%601.cs) - Lisp-like immutable list. Good to use when lists are always accessed from the head.
 * [WeakList](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/WeakList.cs) - Represents an ordered sequence of weak references.
 * [SpecializedCollections](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/SpecializedCollections.cs) - Contains methods to returns an empty collection without additional allocations.
+* [ArrayExtensions](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/ArrayExtensions.cs) - Contains useful extension set for Arrays (manipulation, binary search, etc.).
