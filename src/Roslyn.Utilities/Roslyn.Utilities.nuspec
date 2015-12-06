@@ -9,7 +9,7 @@
     <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
     <projectUrl>https://github.com/Ky7m/Roslyn.Utilities</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Roslyn internal utilities (https://github.com/dotnet/roslyn/tree/master/src/Compilers/Core/Portable/InternalUtilities) wrapped as Nuget package</description>
+    <description>Roslyn utilities (https://github.com/dotnet/roslyn/tree/master/src/Compilers/Core/Portable/InternalUtilities) wrapped as Nuget package</description>
     <language>en-us</language>
     <tags>Roslyn, Utilities</tags>
     <dependencies>
