@@ -50,8 +50,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayBuilder.cs" />
     <Compile Include="ArrayExtensions.cs" />
     <Compile Include="BitArithmeticUtilities.cs" />
+    <Compile Include="ArrayBuilder.Enumerator.cs" />
+    <Compile Include="ObjectPool.cs" />
+    <Compile Include="EnumerableExtensions.ComparisonComparer.cs" />
+    <Compile Include="EnumerableExtensions.cs" />
+    <Compile Include="EnumerableExtensions.ToImmutable.cs" />
+    <Compile Include="PooledHashSet.cs" />
     <Compile Include="SpecializedCollections.cs" />
     <Compile Include="SpecializedCollections.Empty.Array.cs" />
     <Compile Include="SpecializedCollections.Empty.Collection.cs" />

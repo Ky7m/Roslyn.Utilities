@@ -12,3 +12,5 @@
 * [SpecializedCollections](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/SpecializedCollections.cs) - Contains methods to returns an empty collection without additional allocations.
 * [ArrayExtensions](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/ArrayExtensions.cs) - Contains useful extension set for Arrays (manipulation, binary search, etc.).
 * [BitArithmeticUtilities](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/BitArithmeticUtilities.cs) - Contains align and count bits methods.
+* [ArrayBuilder](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/SharedCollections/ArrayBuilder.cs) - Contains optimized methods to create Arrays.
+* [EnumerableExtensions](https://github.com/dotnet/roslyn/blob/master/src/Compilers/Core/Portable/InternalUtilities/EnumerableExtensions.cs) - Contains a set of useful methods, see details on repository.
